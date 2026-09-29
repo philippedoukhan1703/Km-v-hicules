@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "RTE Flotte - Kms & Heures Engins",
+  "short_name": "RTE Flotte",
+  "description": "Suivi des prêts de véhicules RTE, scan QR Code et relevé mensuel au 20 du mois.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0f2b48",
+  "background_color": "#0f2b48",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

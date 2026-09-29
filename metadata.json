@@ -1,0 +1,10 @@
+{
+  "name": "RTE Flotte - Gestion Kms & Heures Engins",
+  "description": "Suivi des prêts de véhicules, relevés kilométriques par QR Code et bilans mensuels au 20 du mois pour les équipes Escaillon et Les Arcs (RTE).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#0f2b48" />
+  <circle cx="256" cy="256" r="190" fill="#163961" stroke="#00a3e0" stroke-width="12" />
+  <!-- Lightning bolt / electricity symbol for RTE -->
+  <polygon points="275,90 170,270 250,270 235,420 345,240 265,240" fill="#00a3e0" />
+  <polygon points="280,105 185,265 255,265 245,395 330,248 268,248" fill="#ffffff" />
+  <text x="256" y="470" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-weight="900" font-size="44" fill="#ffffff" text-anchor="middle" letter-spacing="4">RTE FLOTTE</text>
+</svg>
